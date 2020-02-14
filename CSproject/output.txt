@@ -1,0 +1,8 @@
+Hero started journey with 1000 HP!
+Hero defeated Bug with 990 HP remaining
+Hero defeated Bug with 980 HP remaining
+Hero defeated Lion with 830 HP remaining
+Hero defeated Zombie with 620 HP remaining
+Hero defeated Lion with 470 HP remaining
+Hero defeated Zombie with 260 HP remaining
+Hero Survived!

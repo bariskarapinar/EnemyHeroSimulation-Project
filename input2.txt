@@ -1,0 +1,17 @@
+Resources are 7500 meters away
+Hero has 500 hp
+Hero attack is 9
+ZombieDog is Enemy
+Mutant is Enemy
+Zombie is Enemy
+Mutant has 400 hp
+Mutant attack is 8
+ZombieDog has 75 hp
+ZombieDog attack is 10
+Zombie has 300 hp
+Zombie attack is 7
+There is a Zombie at position 1687
+There is a Mutant at position 274
+There is a ZombieDog at position 486
+There is a ZombieDog at position 1897
+There is a Mutant at position 5332
