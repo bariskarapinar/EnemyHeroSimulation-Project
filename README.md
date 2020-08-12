@@ -1,4 +1,4 @@
-# Cybersoft-Project
+# EnemyHeroSimulation-Project
  
 Projeyi çalıştırmak: Projeyi iki farklı şekilde çalıştırabilirsiniz.
 
